@@ -7,8 +7,8 @@ Panevropski Univerzitet Apeiron, Banja Luka
 Passionate about applied machine learning, backend development, data processing, and building full-stack solutions with clear structure and purpose.
 
 📍 Based in Banja Luka, Bosnia and Herzegovina  
-📧 **Email:** *add here*  
-🔗 **LinkedIn:** *add link*  
+📧 **Email:** *savic.sanja2025@gmail.com*  
+🔗 **LinkedIn:** *www.linkedin.com/in/sanja-s-650078234*  
 🔗 **Portfolio:** *coming soon*  
 
 ---
