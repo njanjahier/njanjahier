@@ -1,16 +1,85 @@
-## Hi there 👋
+# 👋 Hi, I'm Sanja Savić
 
-<!--
-**njanjahier/njanjahier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Bachelor of Computer Science and Informatics – Software Engineering (240 ECTS)**  
+Panevropski Univerzitet Apeiron, Banja Luka
 
-Here are some ideas to get you started:
+💻 **Junior Data & Machine Learning Engineer | Software Engineer**  
+Passionate about applied machine learning, backend development, data processing, and building full-stack solutions with clear structure and purpose.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📍 Based in Banja Luka, Bosnia and Herzegovina  
+📧 **Email:** *add here*  
+🔗 **LinkedIn:** *add link*  
+🔗 **Portfolio:** *coming soon*  
+
+---
+
+## 🔧 Tech Stack
+
+**Languages:**  
+Python • JavaScript • SQL
+
+**ML / Data:**  
+Pandas • NumPy • Scikit-Learn • Matplotlib • Streamlit
+
+**Backend:**  
+Node.js • Express.js • REST APIs • JWT Auth
+
+**Frontend:**  
+React • Bootstrap • Axios
+
+**Databases:**  
+MariaDB/MySQL • SQLite
+
+**Tools:**  
+Git • GitHub • Postman • VS Code
+
+---
+
+## 🚀 Featured Projects
+
+### 🔹 **ML Software Defect Detection**  
+Machine learning model that predicts defect-prone software modules using static code metrics.  
+📌 Classification models, evaluation reports, diagrams, clear dataset workflow.  
+➡️ *[Repository link]*
+
+### 🔹 **Auto Service Reservation Platform (Full-Stack)**  
+Complete reservation system with admin roles, JWT auth, booking calendar, and MySQL database.  
+📌 Full-stack architecture (React + Node + Express + MariaDB).  
+➡️ *[Repository link]*
+
+### 🔹 **Ollama Chatbot GUI**  
+Desktop chatbot GUI for interacting with LLMs using Python.  
+📌 Clean interface, API communication, extendable architecture.  
+➡️ *[Repository link]*
+
+### 🔹 **Sentiment Analysis App (Streamlit)**  
+NLP sentiment analyzer with real-time results and model interpretation.  
+➡️ *[Repository link]*
+
+---
+
+## 🎯 Career Goals
+
+Actively seeking opportunities in:
+
+- ✔ Data Science  
+- ✔ Machine Learning  
+- ✔ Data Engineering (Junior)  
+- ✔ Software Engineering (Python or JS stack)
+
+---
+
+## 📈 What I'm Currently Working On
+
+- Building advanced ML projects with real datasets  
+- Improving deep learning fundamentals  
+- Developing my portfolio website  
+- Enhancing backend API design & data pipelines
+
+---
+
+## 🤝 Let’s Connect
+
+Open to job offers, collaborations, and open-source contributions.  
+Feel free to reach out — I respond quickly!
+
