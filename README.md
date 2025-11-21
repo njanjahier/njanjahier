@@ -40,21 +40,21 @@ Git • GitHub • Postman • VS Code
 ### 🔹 **ML Software Defect Detection**  
 Machine learning model that predicts defect-prone software modules using static code metrics.  
 📌 Classification models, evaluation reports, diagrams, clear dataset workflow.  
-➡️ *[Repository link]*
+➡️ *[https://github.com/njanjahier/ML-Software-Defect-Detection]*
 
 ### 🔹 **Auto Service Reservation Platform (Full-Stack)**  
 Complete reservation system with admin roles, JWT auth, booking calendar, and MySQL database.  
 📌 Full-stack architecture (React + Node + Express + MariaDB).  
-➡️ *[Repository link]*
+➡️ *[https://github.com/njanjahier/auto-service-reservation-platform]*
 
 ### 🔹 **Ollama Chatbot GUI**  
 Desktop chatbot GUI for interacting with LLMs using Python.  
 📌 Clean interface, API communication, extendable architecture.  
-➡️ *[Repository link]*
+➡️ *[https://github.com/njanjahier/Ollama-Chatbot-GUI]*
 
 ### 🔹 **Sentiment Analysis App (Streamlit)**  
 NLP sentiment analyzer with real-time results and model interpretation.  
-➡️ *[Repository link]*
+➡️ *[https://github.com/njanjahier/sentiment-analysis-streamlit]*
 
 ---
 
