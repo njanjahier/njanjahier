@@ -9,7 +9,7 @@ Passionate about applied machine learning, backend development, data processing,
 📍 Based in Banja Luka, Bosnia and Herzegovina  
 📧 **Email:** *savic.sanja2025@gmail.com*  
 🔗 **LinkedIn:** *www.linkedin.com/in/sanja-s-650078234*  
-🔗 **Portfolio:** *coming soon*  
+🔗 **Portfolio:** *https://data-ml-portfolio-19dp3joeg-sanja-savics-projects.vercel.app*  
 
 ---
 
@@ -73,7 +73,6 @@ Actively seeking opportunities in:
 
 - Building advanced ML projects with real datasets  
 - Improving deep learning fundamentals  
-- Developing my portfolio website  
 - Enhancing backend API design & data pipelines
 
 ---
