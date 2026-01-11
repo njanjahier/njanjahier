@@ -3,10 +3,6 @@
 🎓 **Bachelor of Computer Science and Informatics – Software Engineering (240 ECTS)**  
 Panevropski Univerzitet Apeiron, Banja Luka
 
-💻 **Junior Data & Machine Learning Engineer | Software Engineer**  
-Passionate about applied machine learning, backend development, data processing, and building full-stack solutions with clear structure and purpose.
-
-📍 Based in Banja Luka, Bosnia and Herzegovina  
 📧 **Email:** *savic.sanja2025@gmail.com*  
 🔗 **LinkedIn:** *www.linkedin.com/in/sanja-s-650078234*  
 🔗 **Portfolio:** *https://data-ml-portfolio-19dp3joeg-sanja-savics-projects.vercel.app*  
@@ -31,7 +27,7 @@ React • Bootstrap • Axios
 MariaDB/MySQL • SQLite
 
 **Tools:**  
-Git • GitHub • Postman • VS Code
+Git • GitHub • VS Code
 
 ---
 
@@ -58,24 +54,6 @@ NLP sentiment analyzer with real-time results and model interpretation.
 
 ---
 
-## 🎯 Career Goals
-
-Actively seeking opportunities in:
-
-- ✔ Data Science  
-- ✔ Machine Learning  
-- ✔ Data Engineering (Junior)  
-- ✔ Software Engineering (Python or JS stack)
-
----
-
-## 📈 What I'm Currently Working On
-
-- Building advanced ML projects with real datasets  
-- Improving deep learning fundamentals  
-- Enhancing backend API design & data pipelines
-
----
 
 ## 🤝 Let’s Connect
 
